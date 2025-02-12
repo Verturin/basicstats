@@ -1,4 +1,4 @@
-Basic Statistics
+Basic Statistics - Test - 
 ===================
 
 # phpBB 3.1 Basic Statistics
